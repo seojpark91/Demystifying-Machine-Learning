@@ -11,4 +11,5 @@ I am starting with the basics of deep learning simply because this is the one I'
 - *Neural Network with Deep Learning* by Michael Nielsen
 
 ### Current List
-Chapter 1 - Demystifying Neural Network (part 1)
+Chapter 1 - Demystifying Neural Network (part 1) - intro: perceptron, sigmoid, cost function
+Chapter 2 - Demystifying Neural Network (part 2) - backpropagation
