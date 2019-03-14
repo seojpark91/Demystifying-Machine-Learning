@@ -16,6 +16,10 @@ I am starting with the basics of deep learning simply because this is the one I'
 - *Deeplizard* - pytorch tutorial
 
 ### Current List
-Chapter 1 - Demystifying Neural Network (part 1) - intro: perceptron, sigmoid, cost function  
-Chapter 2 - Demystifying Neural Network (part 2) - backpropagation  
-Chapter 3 - Demystifying Neural Network (part 3) - Pytorch tutorial 
+Demystifying Neural Network (part 1) - intro: perceptron, sigmoid, cost function  
+Demystifying Neural Network (part 2) - backpropagation  
+Demystifying Neural Network (part 3) - Pytorch tutorial 
+Demystifying Neural Network (part 4) - Improving neural network's learning : cost function and activation function
+Demystifying Neural Network (part 5) - Improving neural network's learning : overfitting and regularization
+
+
