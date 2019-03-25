@@ -18,8 +18,10 @@ I am starting with the basics of deep learning simply because this is the one I'
 ### Current List
 Demystifying Neural Network (part 1) - intro: perceptron, sigmoid, cost function  
 Demystifying Neural Network (part 2) - backpropagation  
-Demystifying Neural Network (part 3) - Pytorch tutorial 
+Demystifying Neural Network (part 3) - Pytorch tutorial - basic tensor operations
 Demystifying Neural Network (part 4) - Improving neural network's learning : cost function and activation function
 Demystifying Neural Network (part 5) - Improving neural network's learning : overfitting and regularization
+Demystifying Neural Network (part 6) - Pytorch tutorial 2 - understanding neural network architecture
+
 
 
