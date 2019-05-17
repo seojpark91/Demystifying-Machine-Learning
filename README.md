@@ -23,6 +23,7 @@ Demystifying Neural Network (part 4) - Improving neural network's learning : cos
 Demystifying Neural Network (part 5) - Improving neural network's learning : overfitting and regularization  
 Demystifying Neural Network (part 6) - Pytorch tutorial 2 - understanding neural network architecture   
 Demystifying Neural Network (part 7) - Pytorch tutorial 3 - understanding neural network architecture - CNN  
+Restaurant_review_LSTM - torchtext tutorial with Korean restaurant reviews (bidirectional LSTM)
 
 
 
